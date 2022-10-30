@@ -1,7 +1,7 @@
 ## Задание: поиск элементов с помощью Selenium
 
 Вам нужно открыть страницу по [ссылке](http://suninjuly.github.io/simple_form_find_task.html) и заполнить форму на этой странице с помощью Selenium. Если всё сделано правильно, то вы увидите окно с проверочным кодом.  
-### [Решение](https://github.com/N7KA/Selenium_learn/blob/main/Code/lesson6_step4.py)
+### [Решение](https://github.com/N7KA/Selenium_learn/blob/main/tasks_solution/lesson6_step4.py)
 ```Python
 from selenium import webdriver
 from selenium.webdriver.common.by import By

@@ -7,7 +7,7 @@
 3. Заполните скриптом форму.  
    После успешного заполнения вы получите код
 
-### [Решение](https://github.com/N7KA/Selenium_learn/blob/main/Code/lesson6_step5.py)
+### [Решение](https://github.com/N7KA/Selenium_learn/blob/main/tasks_solution/lesson6_step5.py)
 ```Python
 
 import math

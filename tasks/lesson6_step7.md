@@ -8,7 +8,7 @@
 4. Запустите ваш код.  
    Если вы подобрали правильный селектор и все прошло хорошо, то вы получите код.
 
-### [Решение](https://github.com/N7KA/Selenium_learn/blob/main/Code/Lesson6_step7.py)
+### [Решение](https://github.com/N7KA/Selenium_learn/blob/main/tasks_solution/Lesson6_step7.py)
 ```Python
 from selenium import webdriver
 from selenium.webdriver.common.by import By
